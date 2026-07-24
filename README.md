@@ -89,22 +89,6 @@ streamlit run app/app.py
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Reconciliation Results
-
-![Results](screenshots/results.png)
-
-### Issue Distribution
-
-![Charts](screenshots/charts.png)
-
----
-
 ## Example Output
 
 | Transaction | Issue |

@@ -1,0 +1,11 @@
+Transaction_ID,Purchase_Date,Part_Number,Description,Quantity,Unit_Price,Supplier
+TXN001,2026-05-01,PN1001,SSD 1TB,50,85.00,Supplier A
+TXN002,2026-05-01,PN1002,RAM 16GB,75,42.50,Supplier B
+TXN003,2026-05-02,PN1003,Keyboard,100,18.00,Supplier C
+TXN004,2026-05-02,PN1004,Mouse,120,12.50,Supplier C
+TXN005,2026-05-03,PN1005,Monitor 24 Inch,30,165.00,Supplier D
+TXN006,2026-05-03,PN1006,Laptop Dock,25,110.00,Supplier A
+TXN007,2026-05-04,PN1007,USB-C Cable,200,8.00,Supplier E
+TXN008,2026-05-04,PN1008,Webcam HD,40,72.00,Supplier F
+TXN009,2026-05-05,PN1009,Headset,60,55.00,Supplier B
+TXN010,2026-05-05,PN1010,Laptop Stand,45,28.00,Supplier G
